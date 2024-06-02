@@ -1,0 +1,337 @@
+.fill-the-form {
+  position: relative;
+  line-height: 15px;
+  text-transform: uppercase;
+}
+.fill-the-form-below-to-enquire-wrapper {
+  border-radius: 10px 10px 0 0;
+  background-color: #e84d84;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 6px 61px;
+  white-space: nowrap;
+}
+.enter-your-name {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 111px;
+}
+.eg-aneesha-mehra {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-family: "Open Sans";
+  font-size: 13.6px;
+  background-color: transparent;
+  height: 19px;
+  flex: 1;
+  position: relative;
+  color: #bfbfbf;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  min-width: 170px;
+  padding: 0;
+}
+.enter-your-name-parent,
+.input {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  flex-direction: row;
+  padding: 5px 11px 7px;
+}
+.enter-your-name-parent {
+  flex-direction: column;
+  gap: 11px;
+}
+.enter-your-whatsapp {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+}
+.name-icon,
+.placeholder {
+  height: 6.9px;
+  position: relative;
+}
+.placeholder {
+  display: flex;
+  align-items: center;
+  min-width: 24px;
+  white-space: nowrap;
+}
+.name-icon {
+  width: 10.2px;
+  min-height: 7px;
+}
+.input1 {
+  width: 60px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 12px 7px;
+  gap: 3.82px;
+}
+.divplaceholder {
+  width: 107px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 19px;
+  overflow: hidden;
+  flex-direction: column;
+  font-family: "Open Sans";
+  font-size: 13.6px;
+  color: #bfbfbf;
+}
+.divplaceholder,
+.input2,
+.team,
+.tokenomic {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input2 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 5px 12px 7px;
+  min-width: 107px;
+}
+.team,
+.tokenomic {
+  align-self: stretch;
+  gap: 11px;
+}
+.team {
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 13.6px;
+}
+.tokenomic {
+  flex-direction: column;
+}
+.select-your-profession {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+}
+.choose-the-most,
+.svg-icon5 {
+  height: 12px;
+  position: relative;
+}
+.choose-the-most {
+  letter-spacing: -0.02px;
+  display: flex;
+  align-items: center;
+}
+.svg-icon5 {
+  width: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 12px;
+}
+.input3 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 12px 7px;
+  white-space: nowrap;
+  gap: 20px;
+  font-size: 13.6px;
+  color: #bfbfbf;
+}
+.select-your-profession-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.select-your-goal {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 106px;
+}
+.choose-the-most1 {
+  height: 12px;
+  position: relative;
+  letter-spacing: -0.02px;
+  display: flex;
+  align-items: center;
+}
+.svg-icon6 {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 12px;
+}
+.form-field-list,
+.input4 {
+  align-self: stretch;
+  display: flex;
+}
+.input4 {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 12px 7px;
+  white-space: nowrap;
+  gap: 20px;
+  font-size: 13.6px;
+  color: #bfbfbf;
+}
+.form-field-list {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.select-your-city {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 102px;
+}
+.choose-the-most2 {
+  height: 12px;
+  position: relative;
+  letter-spacing: -0.02px;
+  display: flex;
+  align-items: center;
+}
+.svg-icon7 {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 12px;
+}
+.input5 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 12px 7px;
+  white-space: nowrap;
+  gap: 20px;
+  font-size: 13.6px;
+  color: #bfbfbf;
+}
+.form-field-list1,
+.frame-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.frame-parent1 {
+  align-items: center;
+  gap: 10px;
+}
+.submit {
+  position: relative;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 700;
+  font-family: "Open Sans";
+  color: #fafafa;
+  text-align: center;
+  display: inline-block;
+  min-width: 45px;
+}
+.holders-twitter-followers-ai,
+.p2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.p2 {
+  align-items: center;
+  padding: 0.1px 0 0.9px;
+}
+.holders-twitter-followers-ai {
+  align-items: flex-start;
+}
+.divframer-zlvey9,
+.form,
+.frame-div {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.divframer-zlvey9 {
+  cursor: pointer;
+  border: 0;
+  padding: 9px 20px;
+  background-color: transparent;
+  border-radius: 4px;
+  background: linear-gradient(90.32deg, #f56563, #e54988);
+  flex-direction: row;
+  justify-content: center;
+}
+.form,
+.frame-div {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.form {
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 10px;
+  gap: 20px;
+  z-index: 1;
+  margin-top: -1px;
+  font-size: 12.8px;
+  color: #505050;
+}
+.frame-div {
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: "Open Sans";
+}

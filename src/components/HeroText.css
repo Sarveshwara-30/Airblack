@@ -1,0 +1,206 @@
+.makeup-course,
+.professional-online,
+.title {
+  margin: 0;
+}
+.title {
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+.svg-icon {
+  width: 9px;
+  height: 12.1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divframer-171cvlq {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.certification-programme {
+  position: relative;
+  line-height: 13px;
+  display: inline-block;
+  min-width: 128px;
+}
+.p {
+  padding: 0.8px 0 0.2px;
+}
+.divframer-171cvlq-parent,
+.divframer-yhfsxu,
+.p {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-171cvlq-parent {
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.14);
+  flex-direction: row;
+  align-items: center;
+  padding: 5.1px 11px;
+  gap: 7px;
+}
+.svg-icon1 {
+  width: 11px;
+  height: 10.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divframer-1jff7sf {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.rated-4855 {
+  position: relative;
+  line-height: 15px;
+  display: inline-block;
+  min-width: 68px;
+}
+.divframer-1j9x5ww,
+.p1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.p1 {
+  align-items: flex-end;
+  padding: 0.3px 0 0.7px;
+}
+.divframer-1j9x5ww {
+  overflow: hidden;
+  align-items: flex-start;
+}
+.divframer-1htwsli,
+.divframer-2kuydl {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divframer-2kuydl {
+  border-radius: 13px;
+  justify-content: flex-end;
+  gap: 4px;
+  text-align: right;
+  color: #f7c852;
+}
+.divframer-1htwsli {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 67px 0 0;
+  gap: 10px;
+  font-size: 12px;
+  color: #fafafa;
+}
+.svg-icon2 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.text {
+  flex: 1;
+  position: relative;
+  line-height: 17px;
+}
+.point-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.svg-icon3 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.text1 {
+  flex: 1;
+  position: relative;
+  line-height: 17px;
+}
+.point-list1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.svg-icon4 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.text2 {
+  flex: 1;
+  position: relative;
+  line-height: 17px;
+}
+.hero-text,
+.point-list2,
+.points {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.point-list2 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 8px;
+}
+.hero-text,
+.points {
+  flex-direction: column;
+}
+.points {
+  width: 295px;
+  gap: 8px;
+  font-size: 14px;
+  color: #d2d2d2;
+}
+.hero-text {
+  align-self: stretch;
+  gap: 7.1px;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Open Sans";
+}
